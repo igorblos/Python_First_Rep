@@ -1,1 +1,1 @@
-print("Bem vindo ao jogo")
+print("Bem vindo ao jogo de adivinhação!!!")
