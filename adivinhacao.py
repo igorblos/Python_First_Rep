@@ -17,8 +17,8 @@ if (acertou):
     print("Você acertou")
 else:
     if(maior):
-        print("Você errou, seu chute foi maior que o número secreto")
+        print("Você errou, seu chute foi maior que o número secreto!")
     elif(menor):
-        print("Você errou, seu chute foi menor que o número secreto")
+        print("Você errou, seu chute foi menor que o número secreto!")
 
 print("Fim do jogo")
